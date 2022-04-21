@@ -1,0 +1,86 @@
+.label {
+    font-weight: bold;
+}
+
+.invalidBox {
+    color: white;   
+    font-weight: bold;
+    padding: 1rem;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 2px 2px black, -2px 2px black ;
+    background: #015aff;
+    background: -webkit-radial-gradient(center, #015aff, #C71D1D);
+    background: -moz-radial-gradient(center, #015aff, #C71D1D);
+    background: radial-gradient(ellipse at center, #015aff, #C71D1D);
+};
+
+.text-center{
+    display: flex;
+    text-align: center;
+}
+
+.font-weight-bold {
+    font-weight: bold;
+}
+
+.form-group{
+
+}
+
+.inputPassword{
+
+}
+
+.form-text{
+
+} 
+
+.text-muted{
+
+}
+
+.submitBtn{
+
+}
+
+.text-white{
+
+} 
+
+.shadow{
+    box-shadow: 0.3rem;
+}
+
+.col-md-8{
+
+}
+
+.text-white{
+    color: whitesmoke;
+}
+
+.bg-ligh{
+    background-color: lightgray;
+}
+
+.justify-content-around{
+    justify-content: space-around;
+}
+
+.row{
+
+}
+
+.card{
+
+}
+
+.card-body{
+
+}
+
+.btn{
+
+}
+
